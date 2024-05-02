@@ -13,8 +13,6 @@ In this project, we explore the fascinating realm where artificial intelligence 
 
 - Train Vanilla GANs and Autoencoders on the GTZAN dataset for music generation.
 - Generate new music samples using trained models.
-- Evaluate the quality of generated music using various metrics.
-- Provide examples and demos of generated music samples.
 
 ## Dependencies
 
