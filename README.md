@@ -18,7 +18,7 @@ In this project, we explore the fascinating realm where artificial intelligence 
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.10
 - TensorFlow 
 - NumPy
 - pandas
